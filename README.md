@@ -11,8 +11,4 @@ Perform document classification into four defined categories (World, Sports, Bus
 ### Implementation
 #### Open document_classifier.ipynb in Jupyter to go to the implementation details
 
-
-### The model can be downloaded from below link.
-https://drive.google.com/drive/u/0/folders/1iNwYWf5P_UhE4uOBmHDLKzbFrJuylQJf
-
 #### The jupyter file also demonstrates loading and using the model for real-time predictions
